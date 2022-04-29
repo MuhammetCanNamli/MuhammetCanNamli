@@ -15,8 +15,6 @@ I am an active 3rd year student in Computer Engineering Departmant at Atatürk U
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[![website](./twitter-dark.svg)](https://twitter.com/cannmll#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-dark-mode-only)
 &nbsp;&nbsp;
