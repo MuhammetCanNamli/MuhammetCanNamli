@@ -1,16 +1,23 @@
-### Hi there 👋
+## Cyber Security Red Team
 
-<!--
-**MuhammetCanNamli/MuhammetCanNamli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Network & Vulnerabilities**
+- 📫 How to reach me: **namlimuhammetcan55@gmail.com**
+- Personal website: **https://linktr.ee/cannamli**
 
-Here are some ideas to get you started:
+## Profile 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+I am an active 3rd year student in Computer Engineering Departmant at Atatürk University. I am interested in the field of Cybersecurity in Red Team.
+
+![](https://komarev.com/ghpvc/?username=muhammet0can1namli&color=green)
+
+## Connect with me:
+
+[![website](./twitter-light.svg)](https://twitter.com/cannmll#gh-light-mode-only)
+[![website](./twitter-dark.svg)](https://twitter.com/cannmll#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./instagram-light.svg)](https://www.instagram.com/can.nml/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://www.instagram.com/can.nml/#gh-dark-mode-only)
