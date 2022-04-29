@@ -22,3 +22,19 @@ I am an active 3rd year student in Computer Engineering Departmant at Atatürk U
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://www.instagram.com/can.nml/#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://www.instagram.com/can.nml/#gh-dark-mode-only)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <p>
+  <a href="https://github.com/MuhammetCanNamli?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetCanNamli&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
+  </p>
+  <p>
+    <a href="https://github.com/MuhammetCanNamli" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammetCanNamli&count_private=true&show_icons=true&theme=tokyonight">
+      </a>
+  </p>
+</p>
+
