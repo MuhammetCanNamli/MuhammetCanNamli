@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning **Network & Vulnerabilities**
 - 📫 How to reach me: **namlimuhammetcan55@gmail.com**
-- Personal website: **https://linktr.ee/cannamli**
+- 🤳 Personal website: **https://linktr.ee/cannamli**
+- ⚡️ Fun Fact: **I love pixel art and playin' volleyball**
 
 ## Profile 
 
@@ -13,7 +14,7 @@ I am an active 3rd year student in Computer Engineering Departmant at Atatürk U
 
 ## Connect with me:
 
-[![website](./twitter-light.svg)](https://twitter.com/cannmll#gh-light-mode-only)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [![website](./twitter-dark.svg)](https://twitter.com/cannmll#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-light-mode-only)
