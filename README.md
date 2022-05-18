@@ -17,8 +17,8 @@ I am an active 3rd year student in Computer Engineering Departmant at Atatürk U
 [![website](./twitter-light.svg)](https://twitter.com/cannmll#gh-light-mode-only)
 [![website](./twitter-dark.svg)](https://twitter.com/cannmll#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/muhammet-can-naml%C4%B1-9556311b9/#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-namli/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/muhammet-can-namli/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://www.instagram.com/can.nml/#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://www.instagram.com/can.nml/#gh-dark-mode-only)
