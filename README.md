@@ -1,6 +1,6 @@
 ## Cyber Security Red Team
 
-- 🌱 I’m currently learning **Network & Vulnerabilities**
+- 🌱 I’m currently learning **Web App Security**
 - 📫 How to reach me: **namlimuhammetcan55@gmail.com**
 - 🤳 Personal website: **https://linktr.ee/cannamli**
 - ⚡️ Fun Fact: **I love pixel art and playin' volleyball**
