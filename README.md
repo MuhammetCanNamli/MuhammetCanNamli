@@ -8,7 +8,7 @@
 ## Profile 
 
 ###
-I am an active 3rd year student in Computer Engineering Departmant at Atatürk University. I am interested in the field of Cybersecurity in Red Team.
+I am an active 4th year student in Computer Engineering Departmant at Atatürk University. I am interested in the field of Cybersecurity in Red Team.
 
 ![](https://komarev.com/ghpvc/?username=muhammet0can1namli&color=green)
 
