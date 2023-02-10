@@ -19,9 +19,6 @@ I am an active 4th year student in Computer Engineering Departmant at Atatürk U
 &nbsp;&nbsp;
 [![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-namli/#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://www.linkedin.com/in/muhammet-can-namli/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://www.instagram.com/can.nml/#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://www.instagram.com/can.nml/#gh-dark-mode-only)
 
 
 <details>
