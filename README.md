@@ -25,7 +25,7 @@ I graduated from Atatürk University, Department of Computer Engineering. I am i
 <p align="center">
   <p>
   <a href="https://github.com/MuhammetCanNamli?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetCanNamli&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetCanNamli&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
   <p>
