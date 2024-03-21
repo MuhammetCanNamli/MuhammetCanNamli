@@ -1,14 +1,13 @@
-## Cyber Security Red Team
+## Computer Engineer
 
-- 🌱 I’m currently learning **Web App Security**
+- 🌱 I’m currently learning **Golang**
 - 📫 How to reach me: **namlimuhammetcan55@gmail.com**
-- 🤳 Personal website: **https://linktr.ee/cannamli**
-- ⚡️ Fun Fact: **I love pixel art and playin' volleyball**
+- 🤳 My Other Addresses: **https://linktr.ee/cannamli**
 
 ## Profile 
 
 ###
-I graduated from Atatürk University, Department of Computer Engineering. I am interested in the field of Cybersecurity in Red Team..
+I graduated from Atatürk University, Department of Computer Engineering. I am interested in the field of Cybersecurity in Red Team.
 
 ![](https://komarev.com/ghpvc/?username=muhammet0can1namli&color=green)
 
