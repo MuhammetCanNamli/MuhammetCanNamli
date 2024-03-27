@@ -27,7 +27,7 @@ I graduated from Atatürk University, Department of Computer Engineering. I am i
 <a href="https://www.cplusplus.com/"><img alt="c++" src="https://img.shields.io/badge/C/C++-14354C.svg?logo=c&logoColor=white&color=blue"></a>
 <a href="https://www.cplusplus.com/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow"></a></p>
 
-<h2 align="left">Software & Toolss</h2>
+<h2 align="left">Software & Tools</h2>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -45,12 +45,12 @@ I graduated from Atatürk University, Department of Computer Engineering. I am i
 <p align="center">
   <p>
   <a href="https://github.com/MuhammetCanNamli?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetCanNamli&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetCanNamli&layout=compact&theme=dark">
   </a>
   </p>
   <p>
     <a href="https://github.com/MuhammetCanNamli" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammetCanNamli&count_private=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammetCanNamli&count_private=true&show_icons=true&theme=dark">
       </a>
   </p>
 </p>
