@@ -15,11 +15,12 @@ I am strong in social and people skills. I also have the ability to collaborate 
 
 ## Connect with me:
 
-[![website](./twitter-light.svg)](https://twitter.com/cannmll#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/cannmll#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/muhammet-can-namli/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/muhammet-can-namli/#gh-dark-mode-only)
+<p align="left">
+<a href="https://twitter.com/cannmll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuhammetCanNamli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammet-can-namli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuhammetCanNamli" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/namlimuhammetca1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MuhammetCanNamli" height="40" width="40" /></a>
+</p>
+
 
 <h2 align="left">Languages & Frameworks</h2>
 <p align="left"> 
