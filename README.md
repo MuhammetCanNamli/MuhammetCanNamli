@@ -62,7 +62,7 @@ I am strong in social and people skills. I also have the ability to collaborate 
   </p>
   <p>
     <a href="https://github.com/MuhammetCanNamli" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammetCanNamli&count_private=true&show_icons=true&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api?username=MuhammetCanNamli&show_icons=true&theme=dark">
     </a>
   </p>
 </p>
