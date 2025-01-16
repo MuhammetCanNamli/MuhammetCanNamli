@@ -7,7 +7,7 @@
 ## Profile 
 
 ###
-Hello! I am Muhammet Can NAMLI. I am 23 years old. I completed my undergraduate education in Computer Engineering at Atatürk University. I completed my military service. I am currently working full time as a Computer Engineer at SDataM Information Technologies and Security Company in Samsun.
+Hello! I am Muhammet Can NAMLI. I am 23 years old. I completed my undergraduate education in Computer Engineering at Atatürk University. I completed my military service. I am currently working full time as a Computer Engineer at SDataM Bilişim Teknolojileri ve Güvenliği LTD. ŞTİ. in Samsun.
 
 I am strong in social and human relations. I also have the ability to collaborate effectively with colleagues from different disciplines.
 
