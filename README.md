@@ -1,15 +1,15 @@
 ## Computer Engineer
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Deep Learning**
 - 📫 How to reach me: **namlimuhammetcan55@gmail.com**
 - 🤳 My Other Addresses: **https://linktr.ee/cannamli**
 
 ## Profile 
 
 ###
-I graduated from Atatürk University, Department of Computer Engineering. I set my goal to become a Red Team Engineer by combining the basic engineering knowledge I acquired during my university education with my ability to learn on my own and my interest in network technologies. I continuously improved myself to put the knowledge I learned during my education into practice and use it in real world projects. In this process, I gained technical skills such as HTML, CSS, JavaScript, Python, C++, BASH, Golang, SQL.
+Hello! I am Muhammet Can NAMLI. I am 23 years old. I completed my undergraduate education in Computer Engineering at Atatürk University. I completed my military service. I am currently working full time as a Computer Engineer at SDataM Information Technologies and Security Company in Samsun.
 
-I am strong in social and people skills. I also have the ability to collaborate effectively with colleagues from different disciplines.
+I am strong in social and human relations. I also have the ability to collaborate effectively with colleagues from different disciplines.
 
 ![](https://komarev.com/ghpvc/?username=muhammet0can1namli&color=green)
 
