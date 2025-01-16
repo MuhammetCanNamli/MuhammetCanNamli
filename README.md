@@ -57,11 +57,6 @@ I am strong in social and human relations. I also have the ability to collaborat
   </p>
   <p>
     <a href="https://github.com/MuhammetCanNamli" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetCanNamli&theme=dark">
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/MuhammetCanNamli" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=MuhammetCanNamli&show_icons=true&theme=dark">
     </a>
   </p>
