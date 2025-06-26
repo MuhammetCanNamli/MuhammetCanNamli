@@ -1,6 +1,6 @@
 ## Computer Engineer
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 Knowledge and experience on **NLP**
 - 📫 How to reach me: **namlimuhammetcan55@gmail.com**
 - 🤳 My Other Addresses: **https://linktr.ee/cannamli**
 
