@@ -7,9 +7,9 @@
 ## Profile 
 
 ###
-Hello! I am Muhammet Can NAMLI. I am 23 years old. I completed my undergraduate education in Computer Engineering at Atatürk University. I completed my military service. I am currently working full time as a Computer Engineer at SDataM Bilişim Teknolojileri ve Güvenliği LTD. ŞTİ. in Samsun.
-
-I am strong in social and human relations. I also have the ability to collaborate effectively with colleagues from different disciplines.
+I graduated from Atatürk University, Department of Computer Engineering with a GPA of 3.00/4.00. Throughout my university life, I aimed to continuously improve myself by combining basic engineering knowledge with my ability to learn on my own and my interest in technology. I care about putting the theoretical knowledge I have learned into practice by applying it to real world problems.
+I am particularly interested in artificial intelligence. I have developed projects and conducted research on machine learning (scikit-learn, XGBoost), deep learning (TensorFlow, PyTorch, Keras), and natural language processing (text classification, sentiment analysis, transformer-based models - BERT, GPT, fine-tuning).
+I have strong communication skills and can collaborate effectively with people from different disciplines in a team-oriented manner.
 
 ![](https://komarev.com/ghpvc/?username=muhammet0can1namli&color=green)
 
